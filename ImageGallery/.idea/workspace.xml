@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a46d2715-3ff2-4c39-8adc-35a83a22e580" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/AlexSh-l/ImageFilterV2" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qLEEhc43NpTk9uFj2Boe4XAhn7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="15.9.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.37" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../node/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\СПП\ImageFilterV2\client\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\СПП\ImageFilterV2\client\src" />
+      <recent name="D:\СПП\ImageFilterV2\client\src\pages" />
+      <recent name="D:\СПП\ImageFilterV2\client\src\css" />
+      <recent name="D:\СПП\ImageFilterV2\view" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/app.js">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a46d2715-3ff2-4c39-8adc-35a83a22e580" name="Default Changelist" comment="" />
+      <created>1616850359302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616850359302</updated>
+      <workItem from="1616850361095" duration="3651000" />
+      <workItem from="1616886310907" duration="851000" />
+      <workItem from="1617485384583" duration="1192000" />
+      <workItem from="1617540535467" duration="4061000" />
+      <workItem from="1617609254748" duration="3595000" />
+      <workItem from="1617656263176" duration="595000" />
+      <workItem from="1617695213674" duration="17350000" />
+      <workItem from="1617787709193" duration="2255000" />
+      <workItem from="1617800174311" duration="1132000" />
+      <workItem from="1618131868241" duration="2992000" />
+      <workItem from="1618214142577" duration="10771000" />
+      <workItem from="1618237646276" duration="3342000" />
+      <workItem from="1618255084443" duration="6604000" />
+      <workItem from="1618318841708" duration="1699000" />
+      <workItem from="1618324186955" duration="4019000" />
+      <workItem from="1618337292472" duration="9687000" />
+      <workItem from="1618820917568" duration="18963000" />
+      <workItem from="1618923382423" duration="1699000" />
+      <workItem from="1618927479301" duration="5474000" />
+      <workItem from="1618937203625" duration="5000" />
+      <workItem from="1618948278450" duration="19447000" />
+      <workItem from="1620207245737" duration="2582000" />
+      <workItem from="1620250659258" duration="3696000" />
+      <workItem from="1620285387025" duration="1918000" />
+      <workItem from="1620420189165" duration="596000" />
+      <workItem from="1620465289194" duration="6776000" />
+      <workItem from="1620504898516" duration="3138000" />
+      <workItem from="1620549232073" duration="17768000" />
+      <workItem from="1620603226938" duration="2130000" />
+      <workItem from="1620642321251" duration="1417000" />
+      <workItem from="1620645668834" duration="10066000" />
+      <workItem from="1620660934477" duration="20122000" />
+      <workItem from="1620902141852" duration="1268000" />
+      <workItem from="1621021135187" duration="2145000" />
+      <workItem from="1621061682901" duration="1454000" />
+      <workItem from="1621245484942" duration="1795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/client" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

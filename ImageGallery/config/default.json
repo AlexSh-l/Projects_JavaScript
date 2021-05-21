@@ -1,0 +1,10 @@
+{
+  "port" : 80,
+  "mysqlConfig" : {
+    "host" : "localhost",
+    "user" : "root",
+    "database" : "imageviewdb",
+    "password" : ""
+  },
+  "jwtKey": "Security key"
+}

@@ -1,0 +1,99 @@
+@charset "utf-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: available;
+    text-decoration: none;
+    font: bold 35px Arial;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.bodyMain {
+    background-color: lightblue;
+}
+
+.bodyContent {
+    background-color: white;
+    min-width: 150px;
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font: bold 25px Arial;
+    margin-bottom: 30px;
+}
+
+input {
+    min-width: 100px;
+    min-height: 50px;
+    font: bold 20px Arial;
+    text-decoration: none;
+    margin-bottom: 10px;
+    margin-top: 50px;
+    border-width: 3px;
+    border-color: white;
+    background-color: white;
+}
+
+button {
+    min-height: 50px;
+    font: bold 25px Arial;
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    align-self: center;
+    border-radius: 25px;
+    width: 120px;
+    outline: none;
+    margin: 20px;
+}
+
+.imgGrayscale {
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+.imgSepia {
+    -webkit-filter: sepia(1);
+    filter: sepia(1);
+}
+
+.imgBlur {
+    -webkit-filter: blur(3px);
+    filter: blur(3px);
+}
+
+.imgOpacity {
+    -webkit-filter: opacity(75%);
+    filter: opacity(75%);
+}
+
+.imgSaturate {
+    -webkit-filter: saturate(70%);
+    filter: saturate(70%);
+}
+
+.tools {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+}
+
+footer {
+    background: rgba(1, 1, 1, 0.5);
+    text-align: left;
+    color: white;
+    position: fixed;
+    height: 36px;
+    width: 100%;
+    bottom: 0;
+}
